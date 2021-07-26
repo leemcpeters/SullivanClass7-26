@@ -1,0 +1,43 @@
+.mainbody {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;   
+ 
+}
+
+
+
+
+
+
+
+.firstdiv {
+    background-color: lightblue;
+    margin: 30px;
+    border-style: solid;
+    border-color: red;
+    border-width: 5px;
+}
+
+.seconddiv {
+    background-color: purple;
+    
+    border-style: dashed;
+}
+
+.thirddiv {
+    background-color: lightcoral;
+   
+    border-style: dotted;
+}
+.image1 {
+    border-style: solid;
+    border-color: brown;
+    border-width: 5px;
+    width: 300px;
+}
+p {
+    border-style: groove;
+    border-color: black;
+    border-width: 3px;
+}
